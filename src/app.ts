@@ -1,6 +1,9 @@
 import { Engine, MeshBuilder, Scene } from "babylonjs";             //Import classes from babylonjs
 import { AdvancedDynamicTexture, TextBlock} from 'babylonjs-gui';   //Import classes from babylonjs-gui
 
+/**
+ * 
+ */
 export class App {
     private engine: Engine;                     //Engine
     private canvas: HTMLCanvasElement;          //HTMLCanvas
@@ -12,6 +15,13 @@ export class App {
         console.log("app is running");
     }
 
+
+    /**
+     * 
+     * @param canvasID is the string ID of the HTMLCanvasElement target for rendering the scene
+     * @param authoringData is a dictionary of dictionarys that contains various information
+     * from other XRAuthor components 
+     */
     async createXRScene(
         canvasID: string,
         authoringData: {[dataType: string]:{[key:string]:any}} = {}

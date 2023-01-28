@@ -10,7 +10,7 @@ const canvas = document.getElementById('renderCanvas') as HTMLCanvasElement;
 const engine = new Engine(canvas, true);
 
 const app = new App(engine,canvas);
-const scenePromise = app.createScene();
+const scenePromise = app.createXRScene(canvas.id);
 // engine.runRenderLoop(() => {
 //     scene.render();
 // })
