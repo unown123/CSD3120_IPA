@@ -2,25 +2,14 @@ Author: OW XIN RUI
 
 SIT ID: 2001908
 
-Ensure that you have installed:
+Built and tested with the Quest/Quest 2
 
-    1. npm
-    2. nodejs
+1. Move around with the left thumbstick or teleport by holding down the right thumbstick and letting it go.
 
-To install dependencies:
+2. Grab with the grab button on the controller to move objects around.
 
-    1. Run wsl in your folder directory and run the command" "npm install"
+3. With an object grabbed on one hand, grab the object with the other controller and pull outwards
+or inwards to scale the object.
 
-To build and run the serve
+4. You can detach and attach the atoms from the moleculesby grabbing the atoms and pulling them off or placing them in the snap zone.
 
-    Input these two commands in order:
-        1. npm run build
-        2. npm run serve
-    
-    Open your browser and go to http://localhost:3000/
-
-A2 Video Links:
-
-    https://youtu.be/IidMnyBPzxI
-
-    https://drive.google.com/file/d/17cJ7q7bnfvCq17KQYHfen2Swux7yZdLK/view?usp=share_link
