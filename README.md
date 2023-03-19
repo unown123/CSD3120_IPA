@@ -15,3 +15,33 @@ or inwards to scale the object.
 
 4. You can detach and attach the atoms from the moleculesby grabbing the atoms and pulling them off or placing them in the snap zone.
 
+<details>
+<summary>INSERT DROPDOWN TEXT HERE</summary>
+<br>
+<pre>
+CSD3120_IPA
+│  index.html
+│  README.md
+│  Unity Project Files.txt
+│
+├─Build
+│      MoleculeVR.data
+│      MoleculeVR.framework.js
+│      MoleculeVR.loader.js
+│      MoleculeVR.wasm
+│
+└─TemplateData
+        favicon.ico
+        fullscreen-button.png
+        progress-bar-empty-dark.png
+        progress-bar-empty-light.png
+        progress-bar-full-dark.png
+        progress-bar-full-light.png
+        style.css
+        unity-logo-dark.png
+        unity-logo-light.png
+        webgl-logo.png
+
+</pre>
+</br>
+</details>
