@@ -24,3 +24,4 @@ desktop-based locomotion interaction exists but very buggy (or you only had addi
                                         
 ## Other feedback
 Similar to your group mates, all HMD interactions work decently but too bad you did not cater to the desktop-based interactions (the main requirement).
+
